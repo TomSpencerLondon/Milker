@@ -1,0 +1,16 @@
+
+T	java:S110"<This class has 6 parents which is greater than 5 authorized.(‰ö÷•ÿÿÿÿÿ
+;
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉºıÑøÿÿÿÿ
+E
+java:S1948",Make "lineBorder" transient or serializable.(‘êßñúÿÿÿÿ
+D
+java:S1948"+Make "connector" transient or serializable.(ÃÂäÆùÿÿÿÿ
+F
+java:S2387"-"font" is the name of a field in "Component".(Â†êÔÿÿÿÿÿ
+Q
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+<	java:S108")Either remove or fill this block of code.(ä ¹€

@@ -1,0 +1,18 @@
+
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉºıÑøÿÿÿÿ
+q
+java:S1104"]Make controlPanelTitle a static final constant or non-public and provide accessors if needed.(’°¿Œ
+p
+java:S1104"\Make cowsWaitingTitle a static final constant or non-public and provide accessors if needed.(ÌíÆÜ
+t
+java:S1104"[Make cowsMilkedTitle a static final constant or non-public and provide accessors if needed.(«ûª˜ıÿÿÿÿ
+t
+java:S1104"[Make startButtonText a static final constant or non-public and provide accessors if needed.(…Ñîúÿÿÿÿ
+n
+java:S1104"ZMake stopButtonText a static final constant or non-public and provide accessors if needed.(‹¶òŒ
+k
+java:S1104"WMake cowsWaiting a static final constant or non-public and provide accessors if needed.(ÅÕãæ
+s
+java:S1104"ZMake processingFlag a static final constant or non-public and provide accessors if needed.(ª”Öäıÿÿÿÿ
+o
+java:S1104"VMake cowsMilked a static final constant or non-public and provide accessors if needed.(î›Ç÷øÿÿÿÿ
